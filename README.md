@@ -19,4 +19,4 @@ bash sub-snatch.sh example.fr
 bash sub-snatch.sh list.txt
 ```
 ## Screenshot:
-[Screenshot](/image.png "Screenshot")
+![Screenshot](/image.png "Screenshot")
