@@ -14,7 +14,9 @@ bash sub-snatch.sh [domains.txt|domain.com]
 bash sub-snatch.sh example.fr
 ```
 
-### On bulk domains
+### On bulk domains:
 ```bash
 bash sub-snatch.sh list.txt
 ```
+## Screenshot:
+[Screenshot](/image.png "Screenshot")
